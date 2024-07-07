@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("я поменял пароль")
 print("я поменял пароль")
+=======
+print("Hello world")
+>>>>>>> parent of 7f74313 (Update Test.txt)
